@@ -1,6 +1,6 @@
 {
-  "homepage": "http://terrencebudnik.github.io/terrence-budnik-professional-portfolio",
-  "name": "terrence-budnik-professional-portfolio",
+  "homepage": "http://terrencebudnik.github.io/terrence-budnik-portfolio",
+  "name": "terrence-budnik-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
